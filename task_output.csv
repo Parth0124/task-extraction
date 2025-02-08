@@ -1,23 +1,47 @@
 Sentence,Task,Category,Who,Deadline
-Alan wakes up early every day and goes for a morning run.,wake,Personal,Alan,early every day
-He has to submit his project report by 5 PM today.,have,Other,He,5 PM
-Neha should call the doctor to book an appointment before noon.,call,Personal,Unknown,No deadline specified
-Vikram needs to clean the garage this weekend.,need,Other,Vikram,this weekend
-Amit is required to buy groceries for the house before 6 PM.,require,Other,Unknown,6 PM
-Priya must finish reading the research paper before the meeting tomorrow.,finish,Other,Priya,tomorrow
-"John has a dentist appointment at 4 PM, and he should inform his manager about it.",have,Other,John,4 PM
-Anjali will travel to Mumbai for a conference next Monday.,travel,Personal,Mumbai,next Monday
-Suresh has to pay the electricity bill before Friday.,have,Other,Suresh,Friday
-Meera needs to schedule a meeting with the marketing team.,need,Other,Meera,No deadline specified
-Raj is planning to invest in stocks next month.,plan,Work,Unknown,next month
-Sonia has to respond to the client's email by the end of the day.,have,Other,Sonia,the end of the day
-Alan should book flight tickets for the family vacation.,book,Appointments & Meetings,Alan,No deadline specified
-Arjun will attend the yoga class in the evening.,attend,Appointments & Meetings,Arjun,No deadline specified
-Ravi needs to return the library books before the due date.,need,Other,Unknown,No deadline specified
-Kiran has to complete the software update for the company’s server.,have,Other,Kiran,No deadline specified
-Rohit should order a birthday gift for his friend before Saturday.,order,Shopping,Rohit,Saturday
-Kavya is required to finalize the wedding arrangements by next week.,require,Other,Kavya,next week
-Jay will join the gym from next Monday to improve his fitness.,join,Other,Jay,next Monday
-Tina has to collect the package from the post office.,have,Other,Tina,No deadline specified
-Sam needs to wash his car before going to the party.,need,Other,Sam,No deadline specified
-Alexander writes a book at 5 pm.,write,Work,Alexander,5 pm
+Sarah must pick up her prescription from the pharmacy by 3 PM.,pick,Shopping,Sarah,3 PM
+Michael must submit his tax documents before the deadline next Tuesday.,submit,Work,Michael,next Tuesday
+Emma must prepare the presentation for tomorrow's client meeting.,prepare,Other,Emma,tomorrow
+William goes swimming every Thursday morning at the local pool.,go,Personal,William,morning
+Charlotte should call her grandmother this evening.,call,Personal,Charlotte,this evening
+James will start his new job at the tech company next month.,start,Other,James,next month
+Oliver must fix the leaking faucet in the kitchen this weekend.,fix,Household,Oliver,this weekend
+Isabella must renew her driver's license before it expires.,renew,Other,Isabella,No deadline specified
+Thomas must finish painting the living room walls by Sunday.,finish,Other,Thomas,Sunday
+Elizabeth should schedule a haircut appointment for next week.,schedule,Work,Elizabeth,next week
+Henry will attend the concert with friends on Friday night.,attend,Appointments & Meetings,Henry,Friday night
+Lucy must return the borrowed dress to Jessica.,return,Shopping,Lucy,No deadline specified
+George must mow the lawn before the rain starts.,mow,Other,George,No deadline specified
+Carol must complete the online certification course by month-end.,complete,Work,Carol,month-end
+Benjamin should pick up his suit from the dry cleaners.,pick,Shopping,Benjamin,No deadline specified
+Frank will host a dinner party this Saturday evening.,host,Other,Frank,this Saturday
+Matthew must update his resume before applying for jobs.,update,Communication,Matthew,No deadline specified
+Edward must charge his electric car before the road trip.,charge,Other,Edward,No deadline specified
+Claire should water the plants before leaving for vacation.,water,Other,Claire,No deadline specified
+Robert will teach piano lessons every Wednesday afternoon.,teach,Other,Robert,Wednesday
+Alice must backup her computer files before formatting.,backup,Other,Alice,No deadline specified
+Daniel must collect his watch from the repair shop.,collect,Shopping,Daniel,No deadline specified
+Victoria must finish knitting the sweater before winter.,finish,Other,Victoria,the sweater before winter
+Christopher should order new contact lenses this week.,order,Shopping,Christopher,this week
+Margaret will attend her cousin's wedding next month.,attend,Appointments & Meetings,Margaret,next month
+Andrew must repair his bicycle's flat tire.,repair,Household,Andrew,No deadline specified
+Eleanor must submit her research proposal by Friday.,submit,Work,her,Friday
+Patrick must clean out his email inbox before the weekend.,clean,Household,Patrick,the weekend
+Rose should buy new running shoes for the marathon.,buy,Shopping,Rose,No deadline specified
+Timothy will start guitar lessons next Tuesday.,start,Other,Timothy,next Tuesday
+Catherine must organize her digital photos.,organize,Household,Catherine,No deadline specified
+Jonathan must replace the broken window pane.,replace,Other,Jonathan,No deadline specified
+Sophia must prepare for her driving test next week.,prepare,Other,Sophia,next week
+Peter should update his passport before it expires.,update,Communication,Peter,No deadline specified
+Hannah will begin her art classes this weekend.,begin,Other,Hannah,this weekend
+David must schedule a dental cleaning appointment.,schedule,Work,David,No deadline specified
+Rachel must finish writing her novel's final chapter.,finish,Other,Rachel,No deadline specified
+Philip must repair the garden fence before spring.,repair,Household,Philip,No deadline specified
+Martha should order groceries for the holiday dinner.,order,Shopping,Martha,No deadline specified
+Arthur will plant new flowers in the garden bed.,plant,Work,Arthur,No deadline specified
+Emily must renew her gym membership.,renew,Other,Emily,No deadline specified
+Samuel must collect his new glasses from the optician.,collect,Shopping,Samuel,No deadline specified
+Robin must finish the homework before watching TV.,finish,Other,Robin,No deadline specified
+Charles should book tickets for the theater show.,book,Appointments & Meetings,Charles,No deadline specified
+Barney will cook awesome dinner tonight.,cook,Household,Barney,tonight
+Marshal has gone to the office in the afternoon,go,Personal,Marshal,the afternoon
