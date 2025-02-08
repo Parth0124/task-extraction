@@ -1,0 +1,23 @@
+Sentence,Task,Category,Who,Deadline
+Alan wakes up early every day and goes for a morning run.,wake,Personal,Alan,early every day
+He has to submit his project report by 5 PM today.,have,Other,He,5 PM
+Neha should call the doctor to book an appointment before noon.,call,Personal,Unknown,No deadline specified
+Vikram needs to clean the garage this weekend.,need,Other,Vikram,this weekend
+Amit is required to buy groceries for the house before 6 PM.,require,Other,Unknown,6 PM
+Priya must finish reading the research paper before the meeting tomorrow.,finish,Other,Priya,tomorrow
+"John has a dentist appointment at 4 PM, and he should inform his manager about it.",have,Other,John,4 PM
+Anjali will travel to Mumbai for a conference next Monday.,travel,Personal,Mumbai,next Monday
+Suresh has to pay the electricity bill before Friday.,have,Other,Suresh,Friday
+Meera needs to schedule a meeting with the marketing team.,need,Other,Meera,No deadline specified
+Raj is planning to invest in stocks next month.,plan,Work,Unknown,next month
+Sonia has to respond to the client's email by the end of the day.,have,Other,Sonia,the end of the day
+Alan should book flight tickets for the family vacation.,book,Appointments & Meetings,Alan,No deadline specified
+Arjun will attend the yoga class in the evening.,attend,Appointments & Meetings,Arjun,No deadline specified
+Ravi needs to return the library books before the due date.,need,Other,Unknown,No deadline specified
+Kiran has to complete the software update for the company’s server.,have,Other,Kiran,No deadline specified
+Rohit should order a birthday gift for his friend before Saturday.,order,Shopping,Rohit,Saturday
+Kavya is required to finalize the wedding arrangements by next week.,require,Other,Kavya,next week
+Jay will join the gym from next Monday to improve his fitness.,join,Other,Jay,next Monday
+Tina has to collect the package from the post office.,have,Other,Tina,No deadline specified
+Sam needs to wash his car before going to the party.,need,Other,Sam,No deadline specified
+Alexander writes a book at 5 pm.,write,Work,Alexander,5 pm
