@@ -1,47 +1,47 @@
 Sentence,Task,Category,Who,Deadline
-Sarah must collect her prescription from the pharmacy by 3 PM.,collect,Shopping,Sarah,3 PM
+Sarah must collect her prescription from the pharmacy by 3 PM today.,collect,Shopping,Sarah,3 PM today
 Michael must submit his tax documents before the deadline next Tuesday.,submit,Work,Michael,next Tuesday
-Emma must call the clients for the further procedures this evening.,call,Personal,Emma,this evening
-William travels to the swimming pool every Thursday morning.,travel,Personal,William,Thursday
-Charlotte should text her grandmother this evening.,text,Personal,Charlotte,this evening
-James pays for his friend's meal every day.,pay,Shopping,James,every day
-Oliver must fix the leaking faucet in the kitchen this weekend.,fix,Household,Oliver,this weekend
-Isabella must renew her driver's license before it expires.,renew,Other,Isabella,No deadline specified
-Thomas must complete painting the living room walls by Sunday.,complete,Work,Thomas,Sunday
-Elizabeth should schedule a haircut appointment for next week.,schedule,Work,Elizabeth,next week
-Henry will attend the concert with friends on Friday night.,attend,Appointments & Meetings,Henry,Friday night
-Lucy must return the borrowed dress to Jessica.,return,Shopping,Lucy,No deadline specified
-George must mow the lawn before the rain starts.,mow,Other,George,No deadline specified
-Carol must analyze the online certification course content before completing it by month-end.,analyze,Work,Carol,month-end
-Benjamin should pick up his suit from the dry cleaners.,pick,Shopping,Benjamin,No deadline specified
-Frank will host a dinner party this Saturday evening.,host,Other,Frank,this Saturday
-Matthew must update his resume before applying for jobs.,update,Communication,Matthew,No deadline specified
-Edward must charge his electric car before the road trip.,charge,Other,Edward,No deadline specified
-Claire should water the plants before leaving for vacation.,water,Other,Claire,No deadline specified
-Robert will teach piano lessons every Wednesday afternoon.,teach,Other,Robert,Wednesday
-Alice must backup her computer files before formatting.,backup,Other,Alice,No deadline specified
-Daniel must collect his watch from the repair shop.,collect,Shopping,Daniel,No deadline specified
-Victoria must finish knitting the sweater before winter.,finish,Other,Victoria,the sweater before winter
-Christopher should order new contact lenses this week.,order,Shopping,Christopher,this week
-Margaret will attend her cousin's wedding next month.,attend,Appointments & Meetings,Margaret,next month
-Andrew must repair his bicycle's flat tire.,repair,Household,Andrew,No deadline specified
-Eleanor must submit her research proposal by Friday.,submit,Work,her,Friday
-Patrick must clean out his email inbox before the weekend.,clean,Household,Patrick,the weekend
-Rose should buy new running shoes for the marathon.,buy,Shopping,Rose,No deadline specified
-Timothy will start guitar lessons next Tuesday.,start,Other,Timothy,next Tuesday
-Catherine must organize her digital photos.,organize,Household,Catherine,No deadline specified
-Jonathan must replace the broken window pane.,replace,Other,Jonathan,No deadline specified
-Sophia must prepare for her driving test next week.,prepare,Other,Sophia,next week
-Peter should update his passport before it expires.,update,Communication,Peter,No deadline specified
-Hannah will begin her art classes this weekend.,begin,Other,Hannah,this weekend
-David must schedule a dental cleaning appointment.,schedule,Work,David,No deadline specified
-Rachel must finish writing her novel's final chapter.,finish,Other,Rachel,No deadline specified
-Philip must repair the garden fence before spring.,repair,Household,Philip,No deadline specified
-Martha should order groceries for the holiday dinner.,order,Shopping,Martha,No deadline specified
-Arthur will plant new flowers in the garden bed.,plant,Work,Arthur,No deadline specified
-Emily must renew her gym membership.,renew,Other,Emily,No deadline specified
-Samuel must collect his new glasses from the optician.,collect,Shopping,Samuel,No deadline specified
-Robin must complete the homework before watching TV.,complete,Work,Robin,No deadline specified
-Charles should book tickets for the theater show.,book,Appointments & Meetings,Charles,No deadline specified
-Barney will cook an awesome dinner tonight.,cook,Household,Barney,tonight
-Marshal travels to the office in the afternoon.,travel,Personal,Marshal,No deadline specified
+Emma must call the clients for the further procedures by 7 PM today.,call,Personal,Emma,7 PM
+William travels to the swimming pool every Thursday morning at 6 AM.,travel,Personal,William,Thursday
+Charlotte should text her grandmother before she goes to bed.,text,Personal,Charlotte,No deadline specified
+James pays for his friend's meal every day at lunchtime.,pay,Shopping,James,every day
+Oliver must fix the leaking faucet in the kitchen by this Sunday evening.,fix,Household,Oliver,Sunday
+Isabella must renew her driver's license before it expires next month.,renew,Other,Isabella,next month
+Thomas must complete painting the living room walls by Sunday at noon.,complete,Work,Thomas,Sunday
+Elizabeth should schedule a haircut appointment by next Wednesday.,schedule,Work,Elizabeth,next Wednesday
+Henry will attend the concert with friends this Friday at 8 PM.,attend,Appointments & Meetings,Henry,this Friday
+Lucy must return the borrowed dress to Jessica by tomorrow evening.,return,Shopping,Lucy,tomorrow
+George must mow the lawn before the rain starts at 4 PM today.,mow,Other,George,4 PM
+Carol must analyze the online certification course content and complete it by the end of this month.,analyze,Work,Carol,the end of this month
+Benjamin should pick up his suit from the dry cleaners by 5 PM today.,pick,Shopping,Benjamin,5 PM
+Frank will host a dinner party this Saturday at 7 PM.,host,Other,Frank,this Saturday
+Matthew must update his resume before applying for jobs next Monday.,update,Communication,Matthew,next Monday
+Edward must charge his electric car before the road trip starts at 6 AM tomorrow.,charge,Other,Edward,6 AM tomorrow
+Claire should water the plants before leaving for vacation this Friday morning.,water,Other,Claire,Friday
+Robert will teach piano lessons every Wednesday at 3 PM.,teach,Other,Robert,3 PM
+Alice must backup her computer files before formatting them this Saturday.,backup,Other,Alice,this Saturday
+Daniel must collect his watch from the repair shop by Friday evening.,collect,Shopping,Daniel,Friday
+Victoria must finish knitting the sweater before winter starts in December.,finish,Other,Victoria,winter
+Christopher should order new contact lenses by next Monday.,order,Shopping,Christopher,next Monday
+Margaret will attend her cousin's wedding on the 15th of next month.,attend,Appointments & Meetings,Margaret,the 15th of next month
+Andrew must repair his bicycle's flat tire before his morning ride at 7 AM tomorrow.,repair,Household,Andrew,his morning
+Eleanor must submit her research proposal by 5 PM this Friday.,submit,Work,her,5 PM
+Patrick must clean out his email inbox before the weekend starts on Saturday.,clean,Household,Patrick,the weekend
+Rose should buy new running shoes before the marathon on Sunday.,buy,Shopping,Rose,Sunday
+Timothy will start guitar lessons next Tuesday at 4 PM.,start,Other,Timothy,next Tuesday
+Catherine must organize her digital photos before the trip next week.,organize,Household,Catherine,next week
+Jonathan must replace the broken window pane by next Saturday.,replace,Other,Jonathan,next Saturday
+Sophia must prepare for her driving test by next Thursday.,prepare,Other,Sophia,next Thursday
+Peter should update his passport before it expires next month.,update,Communication,Peter,next month
+Hannah will begin her art classes this weekend at 10 AM.,begin,Other,Hannah,this weekend
+David must schedule a dental cleaning appointment by the end of this week.,schedule,Work,David,the end of this week
+Rachel must finish writing her novel's final chapter before the publisher's deadline next Friday.,finish,Other,Rachel,next Friday
+Philip must repair the garden fence before spring starts in March.,repair,Household,Philip,spring
+Martha should order groceries for the holiday dinner by Saturday morning.,order,Shopping,Martha,Saturday
+Arthur will plant new flowers in the garden bed by Sunday afternoon.,plant,Work,Arthur,Sunday
+Emily must renew her gym membership before it expires next Tuesday.,renew,Other,Emily,next Tuesday
+Samuel must collect his new glasses from the optician by 6 PM tomorrow.,collect,Shopping,Samuel,6 PM
+Robin must complete the homework before watching TV at 8 PM tonight.,complete,Work,Robin,8 PM tonight
+Charles should book tickets for the theater show before they sell out on Friday.,book,Appointments & Meetings,Charles,Friday
+Barney will cook an awesome dinner tonight at 7:30 PM.,cook,Household,Barney,tonight
+Marshal travels to the office every afternoon at 2 PM.,travel,Personal,Marshal,every afternoon
