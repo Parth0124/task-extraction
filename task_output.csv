@@ -1,18 +1,18 @@
 Sentence,Task,Category,Who,Deadline
-Sarah must pick up her prescription from the pharmacy by 3 PM.,pick,Shopping,Sarah,3 PM
+Sarah must collect her prescription from the pharmacy by 3 PM.,collect,Shopping,Sarah,3 PM
 Michael must submit his tax documents before the deadline next Tuesday.,submit,Work,Michael,next Tuesday
-Emma must prepare the presentation for tomorrow's client meeting.,prepare,Other,Emma,tomorrow
-William goes swimming every Thursday morning at the local pool.,go,Personal,William,morning
-Charlotte should call her grandmother this evening.,call,Personal,Charlotte,this evening
-James will start his new job at the tech company next month.,start,Other,James,next month
+Emma must call the clients for the further procedures this evening.,call,Personal,Emma,this evening
+William travels to the swimming pool every Thursday morning.,travel,Personal,William,Thursday
+Charlotte should text her grandmother this evening.,text,Personal,Charlotte,this evening
+James pays for his friend's meal every day.,pay,Shopping,James,every day
 Oliver must fix the leaking faucet in the kitchen this weekend.,fix,Household,Oliver,this weekend
 Isabella must renew her driver's license before it expires.,renew,Other,Isabella,No deadline specified
-Thomas must finish painting the living room walls by Sunday.,finish,Other,Thomas,Sunday
+Thomas must complete painting the living room walls by Sunday.,complete,Work,Thomas,Sunday
 Elizabeth should schedule a haircut appointment for next week.,schedule,Work,Elizabeth,next week
 Henry will attend the concert with friends on Friday night.,attend,Appointments & Meetings,Henry,Friday night
 Lucy must return the borrowed dress to Jessica.,return,Shopping,Lucy,No deadline specified
 George must mow the lawn before the rain starts.,mow,Other,George,No deadline specified
-Carol must complete the online certification course by month-end.,complete,Work,Carol,month-end
+Carol must analyze the online certification course content before completing it by month-end.,analyze,Work,Carol,month-end
 Benjamin should pick up his suit from the dry cleaners.,pick,Shopping,Benjamin,No deadline specified
 Frank will host a dinner party this Saturday evening.,host,Other,Frank,this Saturday
 Matthew must update his resume before applying for jobs.,update,Communication,Matthew,No deadline specified
@@ -41,7 +41,7 @@ Martha should order groceries for the holiday dinner.,order,Shopping,Martha,No d
 Arthur will plant new flowers in the garden bed.,plant,Work,Arthur,No deadline specified
 Emily must renew her gym membership.,renew,Other,Emily,No deadline specified
 Samuel must collect his new glasses from the optician.,collect,Shopping,Samuel,No deadline specified
-Robin must finish the homework before watching TV.,finish,Other,Robin,No deadline specified
+Robin must complete the homework before watching TV.,complete,Work,Robin,No deadline specified
 Charles should book tickets for the theater show.,book,Appointments & Meetings,Charles,No deadline specified
-Barney will cook awesome dinner tonight.,cook,Household,Barney,tonight
-Marshal has gone to the office in the afternoon,go,Personal,Marshal,the afternoon
+Barney will cook an awesome dinner tonight.,cook,Household,Barney,tonight
+Marshal travels to the office in the afternoon.,travel,Personal,Marshal,No deadline specified
